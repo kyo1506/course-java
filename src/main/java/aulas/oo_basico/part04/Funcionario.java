@@ -1,4 +1,4 @@
-package aulas.oo.part04;
+package aulas.oo_basico.part04;
 
 public class Funcionario {
 

@@ -1,4 +1,4 @@
-package aulas.oo.part01.paradigma.exemplo001;
+package aulas.oo_basico.part01.paradigma.exemplo001;
 
 public class Carros
 {
@@ -6,7 +6,7 @@ public class Carros
 
     public void numeroDePessoas()
     {
-        System.out.println(String.format("O número total de pessoas dentro do carro é %s", totalpessoas));
+        System.out.printf("O número total de pessoas dentro do carro é %s%n", totalpessoas);
     }
 
     public void adicionarPessoas()

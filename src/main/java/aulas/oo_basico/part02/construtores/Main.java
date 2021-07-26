@@ -1,4 +1,4 @@
-package aulas.oo.part02.construtores;
+package aulas.oo_basico.part02.construtores;
 
 public class Main {
     public static void main(String[] args)
