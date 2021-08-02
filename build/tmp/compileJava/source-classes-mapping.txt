@@ -36,7 +36,15 @@ aulas/collections/ExampleVector.java
  aulas.collections.ExampleVector
 aulas/collections/ExerciseList.java
  aulas.collections.ExerciseList
-aulas/collections/ExampleQueue.java
- aulas.collections.ExampleQueue
 aulas/collections/ExerciseQueue.java
  aulas.collections.ExerciseQueue
+aulas/collections/ExampleQueue.java
+ aulas.collections.ExampleQueue
+aulas/collections/ExampleHashSet.java
+ aulas.collections.ExampleHashSet
+aulas/collections/ExampleLinkedHashSet.java
+ aulas.collections.ExampleLinkedHashSet
+aulas/collections/ExerciseSet.java
+ aulas.collections.ExerciseSet
+aulas/collections/ExampleTreeSet.java
+ aulas.collections.ExampleTreeSet
